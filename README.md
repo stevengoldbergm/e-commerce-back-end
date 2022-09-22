@@ -14,7 +14,7 @@
 
   You can see a video of the program in action [HERE!](https://watch.screencastify.com/v/DqsFPqpZcSsQWZu8hWri)
 
-  ![Image of an api call showing Product values.](./assets/imgs/e-commerce02.png)
+  ![Image of an api call showing Product values.](./assets/imgs/e-commerce01.png)
 
   ## Installation
 
